@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAgaveFairy
-- 👀 I’m interested in data science and probably data engineering; Finishing my degree in CS at UTSA.
-<!-->- 🌱 I’m currently learning python including pandas, matplotlib, numpy, and will start to look at machine learning models when time provides.
-- 💞️ I’m looking to collaborate on (not sure yet, new passion and I have lots to become aware of).
+- 👀 I’m interested in data science and data engineering; Finishing my degree in CS at UTSA on a Data Science concentration.
+- 🌱 I’m currently learning python and common Data Science libraries. I'm also learning and LOVING Zig.
+- 💞️ I’m looking to collaborate on almost anything.
 - 📫 How to reach me ... jodgey4@gmail.com
 
 <!---
